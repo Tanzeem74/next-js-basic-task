@@ -192,13 +192,11 @@ npm run lint
 - [ ] Add product reviews
 - [ ] Multi-language support
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created with 💚 by [Your Name]
+Created with 💚 by Shah Tanzeem Afsar
 
 ## 🤝 Contributing
 
